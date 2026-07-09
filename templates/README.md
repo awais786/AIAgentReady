@@ -8,5 +8,6 @@ per-repo deliverable PR:
 - MCP configs (`.mcp/codebase-memory.json`, `.mcp/git-intelligence.json`)
 - Freshness-hook CI workflows (GitHub Actions, GitLab CI)
 
-**Status: placeholder.** Filled in during **Phase 2** (automate layers 1–3); CI templates
-land in **Phase 4**.
+**Status: partially filled.** `validation/` (the 10-question check: question types, rubric,
+result format, edx-platform example) landed with the `validation-rubric` change. Generator
+templates arrive in **Phase 2**; CI templates land in **Phase 4**.
