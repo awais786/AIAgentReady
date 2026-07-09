@@ -17,5 +17,5 @@
 
 ## 4. Ship
 
-- [ ] 4.1 Commit on `main` referencing ARBISOFTOPEN-438 (closes deferred CI scope), push, confirm Actions run is green
+- [x] 4.1 Commit on `main` referencing ARBISOFTOPEN-438 (closes deferred CI scope), push, confirm Actions run is green
 - [ ] 4.2 Repo owner enables branch protection on `main` (require 1 approving review) — manual GitHub step
