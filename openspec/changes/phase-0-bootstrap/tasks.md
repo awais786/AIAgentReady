@@ -20,6 +20,6 @@
 
 ## 4. Commit and push
 
-- [ ] 4.1 Stage scaffold (confirm design-doc files NOT staged), commit on `main` with message referencing ARBISOFTOPEN-438
-- [ ] 4.2 Push to `origin main`; verify GitHub repo shows the scaffold
-- [ ] 4.3 Update ARBISOFTOPEN-438 in Plane: link the commit, mark verification criteria met
+- [x] 4.1 Stage scaffold (confirm design-doc files NOT staged), commit on `main` with message referencing ARBISOFTOPEN-438
+- [x] 4.2 Push to `origin main`; verify GitHub repo shows the scaffold
+- [x] 4.3 Update ARBISOFTOPEN-438 in Plane: link the commit, mark verification criteria met
