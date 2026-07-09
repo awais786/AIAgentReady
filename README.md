@@ -49,6 +49,11 @@ pytest
 ruff check .
 ```
 
+## Contributing
+
+This repo is spec-first: every feature starts as an OpenSpec change, reviewed by a teammate
+**before** implementation. See [CONTRIBUTING.md](CONTRIBUTING.md) for the workflow.
+
 ## License
 
 [Apache-2.0](LICENSE)
